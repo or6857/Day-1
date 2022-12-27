@@ -1,13 +1,13 @@
 import React from "react";
 import Navbar from "./Navbar";
 
-const LoginPage = () => {
+const Kart = () => {
   return (
     <div>
       <Navbar />
-      <h1>Login</h1>
+      <div>Kart</div>
     </div>
   );
 };
 
-export default LoginPage;
+export default Kart;
